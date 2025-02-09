@@ -1,5 +1,5 @@
 import React from 'react';
-
+import "../globals.css"
 export enum Status {
     Active = 'active',
     NotActive = 'notActive',
